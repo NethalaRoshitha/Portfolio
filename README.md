@@ -97,7 +97,7 @@ https://github.com/NethalaRoshitha/Portfolio
 
 ## 🌍 Live Website
 
-https://NethalaRoshitha.github.io/portfolio
+ https://nethalaroshitha.github.io/Portfolio/
 
 ---
 
